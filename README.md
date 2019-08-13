@@ -1,0 +1,1 @@
+# scala-clean-architecture-sample
